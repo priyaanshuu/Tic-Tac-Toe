@@ -33,11 +33,15 @@ You will need Android Studio 2022.1.1 Patch 1 or above.
 
 ## Future Plans
 
--*Graphical User Interface (GUI)*: I am working on creating a graphical version of the game using a Java GUI library, making the gameplay more interactive and visually appealing.
--*Multiplayer Mode*: I aim to implement a multiplayer mode that will allow players to play against each other over a network connection.
--*Difficulty Levels*: I plan to add different difficulty levels for single-player mode, introducing smarter AI opponents for a more challenging experience.
--*Enhanced Customization*: I will provide options to customize the game's appearance, such as choosing different board themes and player symbols.
--*Game Statistics*: Implementing a feature to keep track of game statistics, including wins, losses, and ties, to provide players with a sense of accomplishment.
--*Code Refinement*: Continuously improving the codebase, optimizing performance, and ensuring maintainability for the long term.
+- *Graphical User Interface (GUI)*: I am working on creating a graphical version of the game using a Java GUI library, making the  
+   gameplay more interactive and visually appealing.
+- *Multiplayer Mode*: I aim to implement a multiplayer mode that will allow players to play against each other over a network connection.
+- *Difficulty Levels*: I plan to add different difficulty levels for single-player mode, introducing smarter AI opponents for a more 
+   challenging experience.
+- *Enhanced Customization*: I will provide options to customize the game's appearance, such as choosing different board themes and player 
+   symbols.
+- *Game Statistics*: Implementing a feature to keep track of game statistics, including wins, losses, and ties, to provide players with a
+   sense of accomplishment.
+- *Code Refinement*: Continuously improving the codebase, optimizing performance, and ensuring maintainability for the long term.
 
 Thank you for your interest in the Tic Tac Toe Game App! I hope you enjoy playing it as much as I enjoyed creating it. If you have any questions or feedback, please don't hesitate to reach out.

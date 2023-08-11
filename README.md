@@ -30,6 +30,8 @@ You will need Android Studio 2022.1.1 Patch 1 or above.
 - Find the app in the app drawer of your android device.
 - Enjoy!
 
+  Thank you for choosing the Tic Tac Toe Android App. Let the game begins!
+
 ## Future Plans
 
 - Versus Computer Mode.
